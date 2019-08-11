@@ -1,4 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Arctic Tern"
 theme = "mediumish"
+
+[params]
+logo = "/images/logo-base.png"
+logo_full = "/images/logo-wo-image.png"
