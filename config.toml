@@ -4,5 +4,17 @@ title = "Arctic Tern"
 theme = "mediumish"
 
 [params]
-logo = "/images/logo-base.png"
-logo_full = "/images/logo-wo-image.png"
+    logo = "/images/logo-base.png"
+    logo_full = "/images/logo-wo-image.png"
+
+[[menu.main]]
+    name = "Podcast"
+    weight = 100
+    identifier = "podcast"
+    url = "/podcast"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
