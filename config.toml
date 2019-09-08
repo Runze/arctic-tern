@@ -2,9 +2,10 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Arctic Tern"
 theme = "mediumish"
+copyright = "Arctic Tern 2019"
 
 [params]
-  logo = "/images/logo-base.png"
+  logo = "/images/logo-base.jpg"
   logo_full = "/images/logo-wo-image.png"
 
 [[menu.main]]
@@ -15,6 +16,12 @@ theme = "mediumish"
 
 [[menu.main]]
   name = "Blog"
-  weight = 100
+  weight = 200
   identifier = "blog"
   url = "/blog"
+
+[[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 300
+  url = "/static/about"
