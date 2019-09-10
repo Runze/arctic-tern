@@ -5,9 +5,10 @@ image: "/images/podcast/01-rex.jpg"
 photo_credit: "Photo Credit: Rex"
 ---
 
-{{< soundcloud 678924507 >}}
+<audio controls style="width: 100%;">
+  <source src="https://feeds.soundcloud.com/stream/678924507-arctic_tern-01-rex-there-is-something-only-minorities-can-relate-to.mp3" type='audio/mp3'>
+</audio>
 
-\
 Almost 10 years ago, fresh out of college, Rex left China and came to the US to pursue a Master's degree in Computer Science. Looking back, he told me that it was a rather impulsive decision but one that he had never regretted because it opened up his mind, sparked his curiosity, and gave him the confidence to face whatever that will come next. I understand what he was saying because, like him, and like hundreds of thousands of Chinese students who head overseas to study each year, this too has changed my life.
 
 *Guest recommendation*:
