@@ -21,7 +21,7 @@ copyright = "Arctic Tern 2019"
   url = "/blog"
 
 [[menu.main]]
-  name = "Blog2"
-  identifier = "about"
+  name = "About"
   weight = 300
+  identifier = "about"
   url = "/about"
