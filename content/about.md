@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2019-09-08T15:20:28-07:00
-draft: true
 ---
 
 > The Arctic tern *(Sterna paradisaea)* is a tern in the family Laridae... The species is strongly migratory, seeing two summers each year as it migrates along a convoluted route from its northern breeding grounds to the Antarctic coast for the southern summer and back again about six months later... These are by far the longest migrations known in the animal kingdom.
