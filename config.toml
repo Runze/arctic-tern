@@ -24,4 +24,4 @@ copyright = "Arctic Tern 2019"
   name = "About"
   identifier = "about"
   weight = 300
-  url = "/static/about"
+  url = "/about"
