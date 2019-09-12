@@ -1,6 +1,6 @@
 ---
 title: "01. Rex: \"There is something only minorities can relate to.\""
-date: 2019-08-09T08:12:56-07:00
+date: 2019-08-25T08:12:56-07:00
 image: "/images/podcast/01-rex.jpg"
 photo_credit: "Photo Credit: Rex"
 ---
