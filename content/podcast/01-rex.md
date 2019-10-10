@@ -31,3 +31,8 @@ Almost 10 years ago, fresh out of college, Rex left China and came to the US to 
 
 + Website: [arctictern.studio](https://www.arctictern.studio/podcast/)
 + Email: runze@arctictern.studio
+
+*Listening platforms*:
+
++ [Apple Podcast](https://podcasts.apple.com/us/podcast/arctic-tern/id1479503786)
++ [Google Podcast](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI5Njk0MTE1L3NvdW5kcy5yc3M%3D)
